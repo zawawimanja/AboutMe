@@ -2,6 +2,16 @@
 
 List of tools that I am familiar with.
 
+- Testing
+1. Selenium
+2. Appium
+3. Jmeter
+4. Tosca Tricentis
+5. Katalon Studio
+6. Cypress
+7. Robot Framework
+
+
 - Web Development
 1. Wordpress
 
@@ -9,7 +19,7 @@ List of tools that I am familiar with.
 1. Android Java
 
 - Game Development
-1.  
+1.  Gdevelop
 
 - Animation
 1. Cartoon Drawing 2
@@ -44,13 +54,6 @@ List of tools that I am familiar with.
 1. Firebase
 2. MySQL
 
-- Testing
-1. Selenium
-2. Appium
-3. Jmeter
-4. Tosca Tricentis
-5. Katalon Studio
-6. Cypress
 
 - Marketing SEO SocMed
 1. Google Analytics
